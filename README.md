@@ -1,2 +1,2 @@
-# goodvenya.github.io
+# Алина Шмелёва
 фронтенд
